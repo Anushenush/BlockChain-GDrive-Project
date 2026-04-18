@@ -1,4 +1,4 @@
-#☁️ AA Drive – Decentralized File Sharing System
+#AA Drive – Decentralized File Sharing System
 A Blockchain-Powered Alternative to Traditional Cloud Storage
 
 🚀 Overview
